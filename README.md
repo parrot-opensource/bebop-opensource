@@ -1,6 +1,6 @@
 # Overview
 Open Source Software used in **Parrot Bebop2** Drone.  
-Firmware version: **3.0.6**  
+Firmware version: **3.1.0**  
 Unless stated otherwise, later versions of the firmware use these same software modules.
 >**Note** : this is **NOT** the Software Development Kit (SDK) for developing applications to control the drone from a remote device. The SDK can be found here: https://github.com/ARDroneSDK3
 
@@ -10,8 +10,11 @@ All Licenses notice files of Open Source Software used in the product are gather
 |License|Package
 |---|---
 |GPL|[busybox](sources/busybox-unknown.tar.bz2)
+|GPL|[ethtool](sources/ethtool-3.4.2.tar.bz2)
 |GPL|[libelf](sources/libelf-0.152.tar.bz2)
 |GPL|[lttng-ust (liblttng-ust-ctl/ustctl.c)](sources/lttng-ust-2.1.1.tar.bz2)
+|GPL|[procps](sources/procps-3.2.8.tar.bz2)
+|GPL|[yavta](sources/yavta-unknown.tar.bz2)
 |GPL2|[devmem](sources/devmem-unknown.tar.bz2)
 |GPL2|[dnsmasq](sources/dnsmasq-2.62.tar.bz2)
 |GPL2|[e2fsprogs](sources/e2fsprogs-1.42.11.tar.bz2)
@@ -23,6 +26,7 @@ All Licenses notice files of Open Source Software used in the product are gather
 |GPL2|[udevd](sources/udevd-164.tar.bz2)
 |GPL2|[udevd_init](sources/udevd_init-164.tar.bz2)
 |GPL2|[util-linux-ng](sources/util-linux-ng-2.26.tar.bz2)
+|GPL2|[wireless_tools](sources/wireless_tools-29.tar.bz2)
 |LGPL|[libc-arm-2012-03-fix](sources/libc-arm-2012-03-fix-unknown.tar.bz2)
 |LGPL|[libconfig](sources/libconfig-1.5.tar.bz2)
 |LGPL|[lttng-ust](sources/lttng-ust-2.1.1.tar.bz2)
